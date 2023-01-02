@@ -1,2 +1,2 @@
 # Portfolio
-Some Decription
+Some Portfolio design from a figma deisgn
